@@ -16,8 +16,6 @@ Express.js can be a good choice when working:
 
 and Nodemon which according to the official site, is a utility that will monitor for any changes in your source and automatically restart your server.
 
-This is a perfect tool-set to start off development!
-
 > Visit <a href="https://nodemon.io/" target="_blank" alt="nodemon.io">nodemon.io</a> for more information
 
 - - -
@@ -57,3 +55,7 @@ npm start
 ```bash
 yarn start
 ```
+
+- - -
+
+#### This is a perfect tool-set to start off development 😀
