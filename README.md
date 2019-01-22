@@ -12,13 +12,13 @@ Express.js can be a good choice when working:
 * for optimal Performance with Node.js
 * with Frameworks (eg. MEAN, MERN stacks _etc_)
 
-> Visit [expressjs.com](https://expressjs.com/) for more information
+> Visit <a href="https://expressjs.com/" target="_blank" alt="expressjs.com">expressjs.com</a> for more information
 
 and Nodemon which according to the official site, is a utility that will monitor for any changes in your source and automatically restart your server.
 
 This is a perfect tool-set to start off development!
 
-> Visit [nodemon.io](https://nodemon.io/) for more information
+> Visit <a href="https://nodemon.io/" target="_blank" alt="nodemon.io">nodemon.io</a> for more information
 
 - - -
 
