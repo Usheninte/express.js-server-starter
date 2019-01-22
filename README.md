@@ -56,6 +56,8 @@ npm start
 yarn start
 ```
 
+<br />
+
 4. Use the following key combination to switch off the Node.js server:
 
 ```
