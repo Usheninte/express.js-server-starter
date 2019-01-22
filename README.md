@@ -25,7 +25,7 @@ and Nodemon which according to the official site, is a utility that will monitor
 1. Clone this repository unto your local machine. Do this by entering the following command into your terminal:
 
 ```bash
-git clone ...
+git clone https://github.com/Usheninte/express.js-server-starter.git
 ```
 
 <br />
