@@ -56,6 +56,12 @@ npm start
 yarn start
 ```
 
+4. Use the following key combination to switch off the Node.js server:
+
+```
+CTRL + C
+```
+
 - - -
 
 #### This is a perfect tool-set to start off development 😀
