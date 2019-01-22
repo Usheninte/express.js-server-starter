@@ -1,0 +1,30 @@
+{
+  "name": "express.js-server-starter",
+  "version": "1.0.0",
+  "description": "This is a super simple node.js server starter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js localhost 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usheninte/express.js-server-starter.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "author": "Ninte Dangana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Usheninte/express.js-server-starter/issues"
+  },
+  "homepage": "https://github.com/Usheninte/express.js-server-starter#readme"
+}
